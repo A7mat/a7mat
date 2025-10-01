@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m Ahmad, a full-stack developer who enjoys working across the stack —
+I’m Ahmad, a full-stack developer who enjoys working across the stack;
 from crafting responsive frontends in Vue/React 🎨 to building solid backends with Python/Django ⚙️.
 
 🔒 Most of my commits live on private GitLab repos (work projects),

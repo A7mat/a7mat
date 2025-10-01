@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 <!--
 **A7mat/a7mat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi 👋 I’m Ahmad, a full-stack developer who enjoys working across the stack —
+I’m Ahmad, a full-stack developer who enjoys working across the stack —
 from crafting responsive frontends in Vue/React 🎨 to building solid backends with Python/Django ⚙️.
 
 🔒 Most of my commits live on private GitLab repos (work projects),
